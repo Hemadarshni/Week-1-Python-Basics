@@ -1,9 +1,9 @@
-Week 1: Python Basics – Personal Introduction Program
-📌 Project Overview
+## Week 1: Python Basics – Personal Introduction Program
+## 📌 Project Overview
 
 This project is part of Week 1 – Python Basics. The objective is to understand the fundamentals of Python programming by creating a simple Personal Introduction Program. The program takes user input, stores it using variables, and displays a friendly welcome message. This project helps build confidence in writing and running Python programs.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Understand what programming is and how Python code runs
 
@@ -17,7 +17,7 @@ Work with basic data types like strings and lists
 
 Build a complete beginner-level Python program
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Programming Language: Python 3.x
 
@@ -32,18 +32,15 @@ Python-Week1-Personal-Intro/
 │── requirements.txt
 │── screenshot.png
 
-Python-Week1-Personal-Intro/ │── README.md │── personal_intro.ipynb │── requirements.txt │── screenshot.png
 
 
+## ⚙️ Setup Instructions
 
-
-⚙️ Setup Instructions
-
-Step 1: Install Python & Jupyter Notebook
+## Step 1: Install Python & Jupyter Notebook
 - Install **Python 3.x** from the official Python website
 - Install Jupyter Notebook using pip:
 
-Step 2: Open the Project
+## Step 2: Open the Project
 
 Navigate to the project folder in Jupyter
 
@@ -53,7 +50,7 @@ Run cells one by one using Shift + Enter
 
 Python -- version 3.13.3
 
-Step 3: Run the Program
+## Step 3: Run the Program
 
 Open the project folder
 
@@ -63,7 +60,7 @@ Run:
 
 python personal_intro.ipynb
 
-🧠 How the Program Works
+## 🧠 How the Program Works
 Step-by-Step Logic
 
 The program asks the user for their name
@@ -76,7 +73,7 @@ A list is used to store hobbies and food
 
 A friendly welcome message is displayed using f-strings
 
-🧩 Concepts Used
+## 🧩 Concepts Used
 
 Variables: Store user information
 
@@ -88,7 +85,7 @@ Input/Output: input() and print() functions
 
 Program Flow: Code runs line by line
 
-🧪 Testing & Validation
+## 🧪 Testing & Validation
 
 The program was tested with different inputs to ensure correct output.
 
@@ -102,17 +99,15 @@ Hobby	Badminton	Displayed correctly
 
 No errors were found during testing.
 
-🧾 Code Organization
+## 🧾 Code Organization
 
 All code is written in a single Jupyter Notebook: personal_intro.ipynb
-
-Code is split into logical cells
 
 Markdown cells are used for headings and explanations
 
 Comments are added for clarity and readability
 
-📸 Visual Documentation
+## 📸 Visual Documentation
 
 screenshot.png shows:
 
@@ -122,7 +117,7 @@ User input prompts
 
 Final welcome message
 
-📘 What I Learned
+## 📘 What I Learned
 
 Basics of Python programming
 
@@ -134,7 +129,7 @@ How to format output using f-strings
 
 How to structure a simple project for GitHub submission
 
-✅ Quality Standards Checklist
+## ✅ Quality Standards Checklist
 
 ✔ Project overview provided
 ✔ Setup instructions included
